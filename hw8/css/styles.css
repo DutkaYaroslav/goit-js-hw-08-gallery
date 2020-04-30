@@ -124,11 +124,11 @@ body {
     border: none;
     border-radius: 50%;
     background-color: transparent;
-    color: #fff;
+    color: rgb(255, 255, 255);
     cursor: pointer;
     transition: background-color 200ms ease-in-out;
     outline: none;
-    background-image: url('../images/icon-close.svg');
+    background-image: url('/images/icon-close.svg');
     background-position: center;
     background-size: 60%;
     background-repeat: no-repeat;
